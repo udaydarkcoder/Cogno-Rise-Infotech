@@ -8,7 +8,7 @@ This internship program spans 30 days, from June 01, 2024, to July 01, 2024. Joi
 
 # Tasks I will be involved in 🎯
 
-# Task 2: Credit Card Fraud Detection 🕵️‍♂️
+# Task 2: Credit Card Fraud Detection 🕵️‍♂️ - https://github.com/udaydarkcoder/Cogno-Rise-Infotech/blob/main/TASK2_Credit%20card%20fraud%20detection%5Buday.T%5D.ipynb
 # Project Report: Credit Card Fraud Detection
 
 ## Table of Contents
