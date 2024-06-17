@@ -71,7 +71,7 @@ The developed fraud detection model exhibits remarkable performance in identifyi
 
 By combining cutting-edge data preprocessing techniques, sophisticated class imbalance handling, meticulous model selection and optimization, comprehensive model evaluation, and insightful feature importance analysis, the project exemplifies a high level of sophistication and finesse in the domain of credit card fraud detection. The advanced methodologies employed and the in-depth analysis conducted make this project an exemplar of excellence in the field.   
 
- # Task 3: Titanic Survival Prediction🚢- TASK3_Titanic survival prediction[uday.T].ipynb
+ # Task 3: Titanic Survival Prediction🚢- https://github.com/udaydarkcoder/Cogno-Rise-Infotech/blob/main/TASK3_Titanic%20survival%20prediction%5Buday.T%5D.ipynb
  
  # Titanic Survival Prediction Project README.md
 
