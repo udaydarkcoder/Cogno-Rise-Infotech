@@ -121,7 +121,7 @@ For more detailed information, please refer to the complete report provided abov
 
 Thank you for exploring the Titanic Survival Prediction project! 🚢✨
 
-# Task 8: Fake News Prediction 📰
+# Task 8: Fake News Prediction 📰 - https://github.com/udaydarkcoder/Cogno-Rise-Infotech/blob/main/TASK8_Fake-news-prediction%20%5Buday.T%5D.ipynb
 
  # Fake News Prediction Project Report
 
