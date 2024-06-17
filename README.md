@@ -70,7 +70,7 @@ The project's sophistication extended to the model evaluation stage. Various eva
 The developed fraud detection model exhibits remarkable performance in identifying fraudulent credit card transactions. The project involved thorough data preprocessing, effective handling of class imbalance, and model optimization to achieve high accuracy and reliability in fraudulent activity detection.
 
 By combining cutting-edge data preprocessing techniques, sophisticated class imbalance handling, meticulous model selection and optimization, comprehensive model evaluation, and insightful feature importance analysis, the project exemplifies a high level of sophistication and finesse in the domain of credit card fraud detection. The advanced methodologies employed and the in-depth analysis conducted make this project an exemplar of excellence in the field.                                 
- #Task 3: Titanic Survival Prediction🚢
+ # Task 3: Titanic Survival Prediction🚢
  
  # Titanic Survival Prediction Project README.md
 
